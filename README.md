@@ -29,7 +29,10 @@ Get account:
     https://twiki.cern.ch/twiki/bin/view/CMSPublic/RucioUserDocsQuotas
     
     rucio list-rse-attributes T2_CH_CERN
-    
-    
+
+See rules 
+
+    rucio rule-info <id number>
+
     
     
