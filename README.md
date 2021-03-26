@@ -4,7 +4,7 @@ My instructions for Rucio
 
 Reference:
 
-    https://twiki.cern.ch/twiki/bin/view/CMSPublic/Rucio
+    https://twiki.cern.ch/twiki/bin/view/CMS/Rucio
     
 Where:
 
