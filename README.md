@@ -41,4 +41,8 @@ See rules
     rucio rule-info <id number>
 
     
+Transfer:
+
+    rucio add-rule --ask-approval
+    
     
