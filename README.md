@@ -10,6 +10,9 @@ Where:
 
     /afs/cern.ch/user/a/amassiro/work/Rucio
     
+    /home/amassiro/Cern/Code/MyRucio
+    
+    
 Commands to prepare:
 
     source /cvmfs/cms.cern.ch/cmsset_default.sh
@@ -30,6 +33,9 @@ Get account:
     
     rucio list-rse-attributes T2_CH_CERN
 
+    rucio list-account-limits $RUCIO_ACCOUNT
+    
+    
 See rules 
 
     rucio rule-info <id number>
